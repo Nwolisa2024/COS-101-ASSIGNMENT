@@ -1,7 +1,7 @@
 3import tkinter as tk
 
 window = tk.Tk()
-window.title("GTWorld Bank App")
+window.title("GTworld Bank App")
 
 account_label = tk.Label(window, text="Select Account Type:")
 account_label.pack()
