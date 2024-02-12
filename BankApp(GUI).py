@@ -61,7 +61,7 @@ def display_account():
 
 
 window = tk.Tk()
-window.title("Welcome to nazzybank☺")
+window.title("Welcome to GTworld bank☺")
 
 
 account_number_label = tk.Label(window, text="Account Number:")
